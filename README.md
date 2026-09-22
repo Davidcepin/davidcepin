@@ -4,7 +4,7 @@ I'm a third year PhD Student at the University of Pennsylvania. I primarily stud
 
 🔭 I'm currently working on quantifying the success of BFEs in reproducing streams in mergers, as well as studying the impacts of binaries on stream width observations.
 
-<a href="https://github.com/davidcepin/davidcepin" target="_blank"><img src="Stream-gif.gif" alt="GIF of Stellar Stream" width=500px></a>
+<a href="https://github.com/davidcepin/davidcepin/Stream-gif.gif" target="_blank"><img src="Stream-gif.gif" alt="GIF of Stellar Stream" width=500px></a>
 
 📫 _How to reach me_
   * **Email**: gondavid@sas.upenn.edu
