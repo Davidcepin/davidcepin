@@ -8,14 +8,13 @@ I'm a third year PhD Student at the University of Pennsylvania. I primarily stud
 
 📫 _How to reach me_
   * **Email**: gondavid@sas.upenn.edu
-<!--
 
 _Photography_
 ## I also like photography! Both astro and street!
 
 <a href="https://github.com/sgpfaff/davidcepin" target="_blank"><img align="right" src="GitHub-1.jpg" alt="Image of Sunset in the West Village" width=200px height=300px></a>
 <a href="https://github.com/sgpfaff/davidcepin" target="_blank"><img align="right" src="GitHub-2.jpg" alt="Image of Milky Way with M33 visible" width=300px height=200px></a>
-
+<!--
 - 😄 Pronouns: ...
 
 Here are some ideas to get you started:
