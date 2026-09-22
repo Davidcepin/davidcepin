@@ -14,6 +14,8 @@ I'm a third year PhD Student at the University of Pennsylvania. I primarily stud
 
 ### 📷 Photography — I also like astro and street photography!
 <!-- PHOTOS:START -->
+<a href="photos/MilkyWay.jpg" target="_blank"><img src="photos/MilkyWay.jpg" alt="MilkyWay" height="400px"></a>
+<a href="photos/NYCSunset.jpg" target="_blank"><img src="photos/NYCSunset.jpg" alt="NYCSunset" height="400px"></a>
 <!-- PHOTOS:END -->
 
 <!--
