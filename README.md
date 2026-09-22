@@ -1,7 +1,20 @@
-## Hi there 👋
+## Hello! I'm David!
 
+I'm a third year PhD Student at the University of Pennsylvania. I primarily study stellar streams, but am also interested in merger events. I have primarily worked on simulations, but would like to work more with pairing these sims to real observables.
+
+🔭 I’m currently working on quantifying the success of BFEs in reproducing streams in mergers, as well as studying the impacts of binaries on stream width observations
+
+<!-- <a href="https://github.com/sgpfaff/orbitflows" target="_blank"><img align="right" src="layerwise_transformation_cropped.gif" alt="phase-space-transformation" width=455px height=293px></a> !-->
+
+## I also like photography! Both astro and street!
+
+<!-- <a href="https://github.com/sgpfaff/orbitflows" target="_blank"><img align="right" src="layerwise_transformation_cropped.gif" alt="phase-space-transformation" width=455px height=293px></a> !-->
+
+📫 _How to reach me_
+  * **Email**: gondavid@sas.upenn.edu
 <!--
-**Davidcepin/davidcepin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+- 😄 Pronouns: ...
 
 Here are some ideas to get you started:
 
@@ -10,7 +23,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+--!>
