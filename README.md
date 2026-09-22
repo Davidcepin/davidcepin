@@ -2,9 +2,9 @@
 
 I'm a third year PhD Student at the University of Pennsylvania. I primarily study stellar streams, but am also interested in merger events. I have primarily worked on simulations, but would like to work more with pairing these sims to real observables.
 
-🔭 I’m currently working on quantifying the success of BFEs in reproducing streams in mergers, as well as studying the impacts of binaries on stream width observations
+🔭 I’m currently working on quantifying the success of BFEs in reproducing streams in mergers, as well as studying the impacts of binaries on stream width observations.
 
-<!-- <a href="https://github.com/sgpfaff/davidcepin" target="_blank"><img align="right" src="layerwise_transformation_cropped.gif" alt="phase-space-transformation" width=455px height=293px></a> !-->
+<a href="https://github.com/davidcepin/davidcepin" target="_blank"><img align="right" src="Stream-Gif.gif" alt="Image of Sunset in the West Village" width=400px height=400px></a>
 
 📫 _How to reach me_
   * **Email**: gondavid@sas.upenn.edu
@@ -12,8 +12,8 @@ I'm a third year PhD Student at the University of Pennsylvania. I primarily stud
 _Photography_
 ## I also like photography! Both astro and street!
 
-<a href="https://github.com/sgpfaff/davidcepin" target="_blank"><img align="right" src="GitHub-1.jpg" alt="Image of Sunset in the West Village" width=200px height=300px></a>
-<a href="https://github.com/sgpfaff/davidcepin" target="_blank"><img align="right" src="GitHub-2.jpg" alt="Image of Milky Way with M33 visible" width=300px height=200px></a>
+<a href="https://github.com/davidcepin/davidcepin" target="_blank"><img align="right" src="GitHub-1.jpg" alt="Image of Sunset in the West Village" width=200px height=300px></a>
+<a href="https://github.com/davidcepin/davidcepin" target="_blank"><img align="right" src="GitHub-2.jpg" alt="Image of Milky Way with M33 visible" width=450px height=300px></a>
 <!--
 - 😄 Pronouns: ...
 
