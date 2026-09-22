@@ -15,6 +15,6 @@ I'm a third year PhD Student at the University of Pennsylvania. I primarily stud
 ### 📷 Photography — I also like astro and street photography!
 
 <p align="left">
-  <img src="GitHub-1.jpg" alt="Image of Sunset in the West Village" width=280px>
-  <img src="GitHub-2.jpg" alt="Image of Milky Way with M33 visible" width=280px>
+  <img src="GitHub-1.jpg" alt="Image of Sunset in the West Village" height=400px>
+  <img src="GitHub-2.jpg" alt="Image of Milky Way with M33 visible" height=400px>
 </p>
